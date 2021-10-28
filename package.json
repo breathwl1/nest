@@ -1,0 +1,22 @@
+{
+  "name": "nest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breathwl1/nest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/breathwl1/nest/issues"
+  },
+  "homepage": "https://github.com/breathwl1/nest#readme",
+  "dependencies": {
+    "koa": "^2.13.4"
+  }
+}
